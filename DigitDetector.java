@@ -1,4 +1,4 @@
-// Assignment Name = CS 160 HW 2
+// Assignment Name = Digit Detective
 // Author = Seerat, Sandha.
 // Date = 02/13/2023
 // Email = sand4927@bears.unco.edu
